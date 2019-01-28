@@ -8,3 +8,4 @@ I'm a Master's student at CMU studying Public Policy and Management. I am from t
 I'm taking Telling Stories with Data to get better at data visualization, a crucial part of academic or professional communication. I've always been interested in how people learn and in making information more accessible. One of the best things you can do to help someone learn is to explain it visually. Mostly what I hope to gain from this class is an increased ability to communicate and share knowledge.
 
 # Portfolio
+<iframe src="https://data.oecd.org/chart/5smn" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5smn" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
