@@ -41,4 +41,9 @@ I knew I hated this, so I took the opportunity to go through the Data Visualizat
 *Second Wireframe of Houston MSA Changes in Employment by Industry*
 
 ![](https://scontent.fagc1-2.fna.fbcdn.net/v/t1.15752-9/51117026_369754286938797_3230515662354907136_n.png?_nc_cat=107&_nc_ht=scontent.fagc1-2.fna&oh=3ef410d86ab82bb54c41981fa4a8ba9f&oe=5CE9D0A6)
+
 Though basic, I was much happier with this wireframe and the feedback I got was positive. People could tell me what the graph would be explaining and they weren't confused. For fun I showed them my first wireframe and we all had a good laugh.
+Feeling confident in my wireframe, I made my final visualization.
+
+![](https://scontent.fagc1-2.fna.fbcdn.net/v/t1.15752-9/51155598_2171873366475598_1882540593117134848_n.png?_nc_cat=100&_nc_ht=scontent.fagc1-2.fna&oh=95bd3e61cc3ba4f27df0485e369d39bd&oe=5CF557C4)
+I think this visualization is simple, but I think it shows the data efficiently and clearly. I did my best to make it printer friendly and easily legible. I think that being able to compare within the industry is really helpful and is more interesting than the static boxes. It isn't as unique as the Treemap, but I think this does a better job of displaying the information.
