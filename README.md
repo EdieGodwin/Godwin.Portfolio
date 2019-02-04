@@ -46,4 +46,5 @@ Though basic, I was much happier with this wireframe and the feedback I got was 
 Feeling confident in my wireframe, I made my final visualization.
 
 ![](https://scontent.fagc1-2.fna.fbcdn.net/v/t1.15752-9/51155598_2171873366475598_1882540593117134848_n.png?_nc_cat=100&_nc_ht=scontent.fagc1-2.fna&oh=95bd3e61cc3ba4f27df0485e369d39bd&oe=5CF557C4)
-I think this visualization is simple, but I think it shows the data efficiently and clearly. I did my best to make it printer friendly and easily legible. I think that being able to compare within the industry is really helpful and is more interesting than the static boxes. It isn't as unique as the Treemap, but I think this does a better job of displaying the information.
+
+This visualization is simple, but I think it shows the data clearly. I did my best to make it printer friendly and easily legible. Being able to compare employment within each industry gives the data some context and is more interesting than the static boxes were. It isn't as unique as the Treemap, but I think this does a better job of displaying the information.
